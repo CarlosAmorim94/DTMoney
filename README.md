@@ -5,6 +5,8 @@ Projeto criado com ReactJs e Typescript seguindo orientações da RocketSeat
 Link estará disponivel quando finalizar o projeto
 
 
+![screen2](https://user-images.githubusercontent.com/83739628/147174565-461169d3-fd4e-450e-98fd-04e1745f1527.png)
+![screen1](https://user-images.githubusercontent.com/83739628/147174555-bb398cdf-5b8f-4d6b-8938-644ed76f8364.png)
 
 
 ## 🚀 Projeto criado pare treinar conceitos de API's e reforçar atividades do ReactJS como:
