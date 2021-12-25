@@ -34,6 +34,7 @@ $ git clone https://github.com/CarlosAmorim94/DTMoney.git
 ## Instalar dependências
 ```bash
 npm install
+npm install -g typescript
 npm install --save styled-components
 npm install @types/styled-components -d
 ```
