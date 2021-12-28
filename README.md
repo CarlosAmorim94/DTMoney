@@ -28,7 +28,7 @@ Link estará disponivel quando finalizar o projeto
 
 ## Clonar o repositório
 ```bash
-$ git clone https://github.com/CarlosAmorim94/DTMoney.git
+$ git clone https://github.com/CarlosAmorim94/DTMoney
 ```
 
 ## Instalar dependências
@@ -37,6 +37,7 @@ npm install
 npm install -g typescript
 npm install --save styled-components
 npm install @types/styled-components -d
+npm install miragejs
 ```
 
 ## Rodar Projeto
