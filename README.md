@@ -33,11 +33,12 @@ $ git clone https://github.com/CarlosAmorim94/DTMoney
 
 ## Instalar dependências
 ```bash
-npm install
 npm install -g typescript
-npm install --save styled-components
 npm install @types/styled-components -d
 npm install miragejs
+npm install axios
+npm install @types/react-modal
+npm install polished
 ```
 
 ## Rodar Projeto
