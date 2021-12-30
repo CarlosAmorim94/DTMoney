@@ -1,12 +1,11 @@
-import React from 'react'
-import Sumary from '../Sumary'
+import Summary from '../Summary'
 import { TransactionTable } from '../TransactionTable'
 import { Container } from './styles'
 
 export default function Dashboard() {
     return (
         <Container>
-            <Sumary />
+            <Summary />
             <TransactionTable />
         </Container>
     )
