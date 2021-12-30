@@ -11,10 +11,13 @@ Link estará disponivel quando finalizar o projeto
 
 ## 🚀 Projeto criado pare treinar conceitos de API's e reforçar atividades do ReactJS como:
 
+- ✔️ typescript
 - ✔️ Componentização.
 - ✔️ Uso de props.
 - ✔️ Treinar CSS com o uso do Styled Components.
 - ✔️ Uso da função map
+- ✔️ ContextAPI
+- ✔️ MirageJs
 
 
 ## ⚙ Pré Requisitos
