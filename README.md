@@ -1,8 +1,14 @@
 # DTMoney
-Projeto criado com ReactJs e Typescript seguindo orientações da RocketSeat
+
+O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação em ReactJS aplicando conceitos utilizados no dia a dia de um desenvolvedor Front-end.
+
+A aplicação foi desenvolvida utilizando hooks, contexto, comunicação com API utilizando o Axios e mirageJS para simular as respostas do back-end. Foi implementado conceitos relacionados a tratamento de formulários e modal.
+
+O projeto foi desenvolvido como pratica das aulas do modulo 02 do Ignite da Rocketseat
 
 ![screen2](https://user-images.githubusercontent.com/83739628/147174565-461169d3-fd4e-450e-98fd-04e1745f1527.png)
 ![screen1](https://user-images.githubusercontent.com/83739628/147174555-bb398cdf-5b8f-4d6b-8938-644ed76f8364.png)
+
 
 
 ## 🚀 Projeto criado pare treinar conceitos de API's e reforçar atividades do ReactJS como:
